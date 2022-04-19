@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "4skxOFECIoIuExbMdWwutVABilhxe9A8kJh57Hr4BXb3W1tQsdT4KE5Wuj0ON0VWOkHl3ld1b9ZgbAefYbAbUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\miki\\source\\repos\\BookExer\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.24\\microsoft.entityframeworkcore.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.24\\microsoft.entityframeworkcore.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.24\\microsoft.entityframeworkcore.analyzers.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.24\\microsoft.extensions.caching.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.24\\microsoft.extensions.caching.memory.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.24\\microsoft.extensions.configuration.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.24\\microsoft.extensions.configuration.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.24\\microsoft.extensions.configuration.binder.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.24\\microsoft.extensions.dependencyinjection.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.24\\microsoft.extensions.dependencyinjection.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.logging\\3.1.24\\microsoft.extensions.logging.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.24\\microsoft.extensions.logging.abstractions.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.options\\3.1.24\\microsoft.extensions.options.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.24\\microsoft.extensions.primitives.3.1.24.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
+    "C:\\Users\\miki\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

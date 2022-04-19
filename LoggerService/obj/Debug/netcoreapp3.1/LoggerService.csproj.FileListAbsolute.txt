@@ -1,0 +1,15 @@
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.AssemblyReference.cache
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+C:\Users\miki\source\repos\BookExer\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\miki\source\repos\BookExer\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

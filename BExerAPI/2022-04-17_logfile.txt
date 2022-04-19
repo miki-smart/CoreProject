@@ -1,0 +1,8 @@
+2022-04-17 23:01:39.5194 ERROR Something went wrong in the GetCompaniesaction AutoMapper.AutoMapperMappingException: Missing type map configuration or unsupported mapping.
+
+Mapping types:
+List`1 -> CompanyDto
+System.Collections.Generic.List`1[[Entities.Models.Company, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> Entities.DataTransferObjects.CompanyDto
+   at lambda_method(Closure , List`1 , CompanyDto , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at BExerAPI.Controllers.CompaniesController.GetCompanies() in C:\Users\miki\source\repos\BookExer\BExerAPI\Controllers\CompaniesController.cs:line 36

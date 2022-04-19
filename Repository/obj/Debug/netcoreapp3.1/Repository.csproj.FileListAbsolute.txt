@@ -1,0 +1,15 @@
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.AssemblyReference.cache
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Contracts.dll
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Contracts.pdb
+C:\Users\miki\source\repos\BookExer\Repository\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\miki\source\repos\BookExer\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
